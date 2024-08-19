@@ -1,20 +1,8 @@
-#  **[SpeedTest by OpenSpeedTest™](https://openspeedtest.com?Run&ref=Github)** - Free & Open-Source HTML5 Network Performance Estimation Tool.
+# Customixed Network Speedtest based on **[SpeedTest by OpenSpeedTest™](https://openspeedtest.com?Run&ref=Github)** - Free & Open-Source HTML5 Network Performance Estimation Tool.
 
   
 
 SpeedTest by OpenSpeedTest™ is a Free and Open-Source HTML5 Network Performance Estimation Tool Written in Vanilla Javascript and only uses built-in Web APIs like `XMLHttpRequest` `(XHR)`, `HTML`, `CSS`, `JS`, & `SVG`. No Third-Party frameworks or libraries are Required. All we need is a static web server like `NGINX`. I started this project in 2011 and moved to OpenSpeedTest.com dedicated Project/Domain Name in 2013.
-  
-
-[![Download OpenSpeedTest-Server V2.1](https://github.com/openspeedtest/v2-Test/raw/main/images/10G-S.gif)](https://go.openspeedtest.com/Server  "Download OpenSpeedTest-Server V2.1")
- <a target="_blank"  href="https://go.openspeedtest.com/MicrosoftStore"><img src="https://github.com/openspeedtest/v2-Test/raw/main/images/Microsoft-Store-250x100.png"  alt="Download from the Microsoft Store"  width="24%" style=""></a> <a target="_blank"  href="https://go.openspeedtest.com/MacAppStore"><img src="https://github.com/openspeedtest/v2-Test/raw/main/images/Mac-App-Store-250x100.png"  alt="Download from the Mac App Store"  width="24%"  style=""></a> <a target="_blank"  href="http://go.openspeedtest.com/iOS"><img src="https://github.com/openspeedtest/v2-Test/raw/main/images/App-Store-250x100.png"  alt="Download from the App Store"  width="24%" style=""></a> <a target="_blank"  href="https://go.openspeedtest.com/Android"><img src="https://github.com/openspeedtest/v2-Test/raw/main/images/GooglePlay-250x100.png"  alt="Download from the Google Play Store" width="24%"  style=""></a> <a target="_blank"  href="https://go.openspeedtest.com/snapcraft"><img src="https://github.com/openspeedtest/v2-Test/raw/main/images/SnapStore-250x100.png"  alt="Download from the Snap Store"  width="24%"  style=""></a> <a target="_blank"  href="http://go.openspeedtest.com/docker"><img src="https://github.com/openspeedtest/v2-Test/raw/main/images/docker-250x100.png"  alt="Download from the Docker Hub"  width="24%" style=""></a> <a target="_blank"  href="http://go.openspeedtest.com/helm"><img src="https://github.com/openspeedtest/v2-Test/raw/main/images/Helm-Charts-250x100.png"  alt="Download from the Helm Store"  width="24%" style=""></a> <a target="_blank"  href="http://go.openspeedtest.com/Source"><img src="https://github.com/openspeedtest/v2-Test/raw/main/images/GitHub-250x100.png"  alt="Download from GitHub"  width="24%" style=""></a>
-
-**No client-side software or plugin is required. You can run a network speed test from any device with a [Web Browser that is IE10 or newer.](https://www.youtube.com/watch?v=9f-OM_WQ7Bw&list=PLt-deStxFJOMEAs2O1lJhscMNzcg9E3Po&index=1)**
-
- <a target="_blank"  href="https://www.youtube.com/embed/Lq9dpMCM6kQ?autoplay=1"><img src="https://open.cachefly.net/assets/images/videos/Roberto-Jorge-Tech-yt.jpg"  alt="Video Tutorial by Roberto Jorge Tech"  width="48%" style=""></a> 
- <a target="_blank"  href="https://www.youtube.com/embed/9NIHAmVkomk?autoplay=1"><img src="https://open.cachefly.net/assets/images/videos/lanpad-yt.jpg"  alt="Video Tutorial by LanPad"  width="48%" style=""></a> 
-
-##  Why OpenSpeedTest
-
   
 
 ###  Secure by Design.
