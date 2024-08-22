@@ -88,7 +88,7 @@ color: #14b0fe;
 }
 .main-GaugeBlue {
   fill: none;
-  stroke: url(#gradient);
+  stroke: #B34DD0;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: 22px;
@@ -97,7 +97,7 @@ color: #14b0fe;
 }
 .main-GaugeWhite {
   fill: none;
-  stroke: rgb(255, 255, 255);
+  stroke: none;
   stroke-linecap: round;
   stroke-linejoin: round;
   stroke-width: 15px;
@@ -141,7 +141,7 @@ color: #14b0fe;
   fill: #f2f2f2;
 }
 .Symbol {
-  fill: url(#gradient);
+  fill: #B34DD0;
 }
 .rtext {
   font-size: 12px;
@@ -230,7 +230,7 @@ color: #14b0fe;
   stroke-linejoin: round;
   stroke-width: 22px;
   stroke-dasharray: 681;
-  stroke: url(#gradient);
+  stroke: #B34DD0;
 }
 #UI-Desk {
   display: none;
